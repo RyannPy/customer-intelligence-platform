@@ -1,5 +1,4 @@
 pandas
 matplotlib
 numpy
-plotly
-nbformat
+imblearn
